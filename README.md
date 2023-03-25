@@ -50,6 +50,14 @@ It can also provide guidance on how to set up and manage software development en
 | 4 |  Kubernetes | Virtual Testing Environment | {helm show chart bitnami/mysql} |
 
 
+## Blogs
+
+- [ChatGPT Blogs](https://collabnix.com/tag/chatgpt/)
+- [ChatGPT for Python Developers](https://collabnix.com/chatgpt-for-python-developers/)
+- [How to Build a Discord Bot with ChatGPT](https://collabnix.com/how-to-build-a-discord-bot-with-chatgpt/)
+
+
+
 
 
 
