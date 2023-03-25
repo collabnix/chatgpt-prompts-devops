@@ -15,6 +15,8 @@
 | 3 | Docker |Virtual Testing Environment | {{docker ps}} | |
 | 4 | Docker |Virtual Testing Environment | {wget https://github.com/docker/awesome-compose && cd awesome-compose/flask-redis && docker compose up}} | |
 | 5 | Docker |Virtual Testing Environment |  {docker compose ps} | |
+| 6 | Docker | Virtual Testing Environment | {redis-cli -p 6379} | |
+| 7 | Docker | Virtual Testing Environment | {info} | |
 
  ## ChatGPT Prompts for Kubernetes
 
