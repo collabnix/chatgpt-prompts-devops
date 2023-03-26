@@ -14,9 +14,8 @@ It can also provide guidance on how to set up and manage software development en
 
 
 
-![image](https://user-images.githubusercontent.com/34368930/227756991-6a1679bf-1b7d-4910-a5b8-32cbc05bb326.png)
 
-[![Join our Discord server!](discord.png)](https://discord.gg/your-invite-link)
+[Click Here to Join our Discord server!](https://discord.gg/QEkCXAXYSe)
 
 
 
