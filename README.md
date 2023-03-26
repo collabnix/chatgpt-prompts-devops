@@ -14,6 +14,13 @@ It can also provide guidance on how to set up and manage software development en
 
 
 
+![image](https://user-images.githubusercontent.com/34368930/227756991-6a1679bf-1b7d-4910-a5b8-32cbc05bb326.png)
+
+[![Join our Discord server!](discord.png)](https://discord.gg/your-invite-link)
+
+
+
+
 
 # ChatGPT Prompts for Docker
 
@@ -50,7 +57,7 @@ It can also provide guidance on how to set up and manage software development en
 | 4 |  Kubernetes | Virtual Testing Environment | {helm show chart bitnami/mysql} |
 
 
-## Blogs
+## 🖌️ Blogs
 
 - [ChatGPT Blogs](https://collabnix.com/tag/chatgpt/)
 - [ChatGPT for Python Developers](https://collabnix.com/chatgpt-for-python-developers/)
